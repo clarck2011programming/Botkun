@@ -1,16 +1,16 @@
 {
-  "prefix": "!",
+  "prefix": "/",
   "adminUIDs": [
-   "your uid"
+   "100080819912016"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "100080819912016",
     "",
     ""
   ],
-  "botName": "bot name",
-  "ownerName": "Your name",
-  "facebookLink": "fb link",
+  "botName": "GLEN BOT",
+  "ownerName": "GLEN ALBERT HILARIO",
+  "facebookLink": "https://www.facebook.com/www.glen.official",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
@@ -18,8 +18,8 @@
   "restartTime": 50,
   "FCA": "hut-chat-api",
   "loginpanel": {
-    "user": "your username in dashboard",
-    "password": "password your dashboard",
+    "user": "sheema000",
+    "password": "KYLIE123",
     "passcode": "12345"
   }
 }
